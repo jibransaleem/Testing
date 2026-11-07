@@ -1,0 +1,8 @@
+fastapi
+httpx
+psycopg[binary]
+pgvector
+numpy
+python-dotenv
+pypdf
+langchain-groq
