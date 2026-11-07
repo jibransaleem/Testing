@@ -5,4 +5,5 @@ pgvector
 numpy
 python-dotenv
 pypdf
+pymupdf
 langchain-groq
