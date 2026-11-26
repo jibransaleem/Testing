@@ -11,4 +11,5 @@ dependencies = [
     "pymupdf",
     "langchain-groq",
     "fastapi>=0.165.0",
+    "google-genai>=3.6.1",
 ]
