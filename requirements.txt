@@ -1,4 +1,5 @@
 httpx
+fastapi
 psycopg[binary]
 pgvector
 python-dotenv

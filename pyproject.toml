@@ -10,4 +10,5 @@ dependencies = [
     "pypdf",
     "pymupdf",
     "langchain-groq",
+    "fastapi>=0.165.0",
 ]
