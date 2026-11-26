@@ -7,12 +7,6 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
-a2a_client.py
-t.py
-temp.py
 .env
-test.py
-wipe.py
-.data
+data
 .cache
