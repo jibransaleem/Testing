@@ -14,3 +14,5 @@ temp.py
 .env
 test.py
 wipe.py
+.data
+.cache
